@@ -1,4 +1,4 @@
-package org.example.Exceptionhandling;
+package org.example.ExceptionHandlingPractice;
 
 class ThrowHandleDemo {
 
@@ -17,4 +17,5 @@ class ThrowHandleDemo {
         }
     }
 }
+
 

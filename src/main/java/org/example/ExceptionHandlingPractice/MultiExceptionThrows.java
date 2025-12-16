@@ -1,4 +1,4 @@
-package org.example.Exceptionhandling;
+package org.example.ExceptionHandlingPractice;
 
 class MultiExceptionThrows {
 
@@ -21,4 +21,5 @@ class MultiExceptionThrows {
         }
     }
 }
+
 

@@ -1,7 +1,6 @@
-package org.example.Exceptionhandling;
+package org.example.ExceptionHandlingPractice;
 
 public class UncheckedExceptionDemo {
-
     public static void main(String[] args) {
 
         // 1️⃣ ArithmeticException
@@ -41,10 +40,12 @@ public class UncheckedExceptionDemo {
         } catch (ClassCastException e) {
             System.out.println("ClassCastException: Invalid type casting");
         }
-finally {
+        finally {
             System.out.println("progam is running safe....");
         }
         System.out.println("Program continues safely...");
     }
 }
+
+
 

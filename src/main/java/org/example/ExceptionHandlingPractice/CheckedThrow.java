@@ -1,4 +1,4 @@
-package org.example.Exceptionhandling;
+package org.example.ExceptionHandlingPractice;
 
 import java.io.IOException;
 
@@ -16,4 +16,3 @@ class CheckedThrow {
         }
     }
 }
-

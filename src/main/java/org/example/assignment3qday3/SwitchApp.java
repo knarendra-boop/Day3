@@ -1,7 +1,6 @@
-package org.example.Day3Assignments;
+package org.example.assignment3qday3;
 
-public record Switch(int id, double amount, String status) {
-}
+
 
 class SwitchApp {
     static void validObj(Object obj) {

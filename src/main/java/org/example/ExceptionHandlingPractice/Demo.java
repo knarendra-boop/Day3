@@ -1,4 +1,4 @@
-package org.example.Exceptionhandling;
+package org.example.ExceptionHandlingPractice;
 
 public class Demo {
     public static void main(String[] args) {
